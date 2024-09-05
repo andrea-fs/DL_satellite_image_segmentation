@@ -18,7 +18,6 @@ pip install numpy matplotlib tensorflow keras opencv-python Pillow patchify
 ```
 
 4. Download the dataset and place it in the appropriate folder structure:
-none
 
 ign ( annotations ( training(img..), validation(img..) ), images ( training(img..), validation(img..) ) )
 
