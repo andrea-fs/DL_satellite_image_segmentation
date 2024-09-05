@@ -51,7 +51,7 @@ Make sure all the libraries are installed using the command provided above.
 
 After training the model, the output will include the segmented images where each pixel is classified into the respective class based on the trained model.
 
-> [!NOTE]
+## Notes
 The DRU-Net (A Dilated-Residual U-Net Deep Learning Network to Digitally Stain Optic Nerve Head Tissues in Optical Coherence Tomography Images   Sripad Krishna Devalla1, Prajwal K. Renukanand1)
 
 is a variant of the U-Net that uses dilated convolutions and residual connections. The number of param it's just 49k
