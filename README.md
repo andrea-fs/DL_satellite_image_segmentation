@@ -50,3 +50,7 @@ Make sure all the libraries are installed using the command provided above.
 ## Results
 
 After training the model, the output will include the segmented images where each pixel is classified into the respective class based on the trained model.
+
+## Notes
+
+The DRU-Net is a variant of the U-Net that uses dilated convolutions and residual connections. The number of param it's just 49k
